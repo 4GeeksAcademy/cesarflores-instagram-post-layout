@@ -1,0 +1,71 @@
+body {
+    font-family: "Roboto";
+    background-color: black;
+    padding-left: 15%;
+}
+.post {
+    background-color: whitesmoke;
+    height: 700px;
+    width: 450px;
+}
+.post-header {
+    display: flex;
+}
+.fa.fa-brands.fa-html5 {
+    font-size: 1.8rem;
+    padding: 2.4% 1% 2% 2.7%;
+}
+.info {
+    font-weight: 700;
+}
+.post-header div:nth-child(2) {
+    height: 49px;
+    width: 77px !important;
+    padding-top: 7px;
+    padding-left: 1px;
+}
+.fa.fa-solid.fa-ellipsis-vertical {
+    font-size: 2rem;
+    padding: 2%;
+    position: relative;
+    left: 18.6rem;
+}
+.post-header {
+    height: 50px;
+}
+.post-img {
+    height: 400px;
+}
+img {
+    height: 399px;
+    width: 450px;
+}
+.post-body {
+    height: 250px;
+}
+.post-icons {
+    display: flex;
+    padding-left: 1px;
+}
+.fa.fa-regular.fa-heart {
+    font-size: 2rem;
+    padding: 2% 1%;
+}
+.fa.fa-regular.fa-comment {
+    font-size: 2rem;
+    padding: 2% 1%;
+}
+.fa.fa-regular.fa-paper-plane {
+    font-size: 2rem;
+    padding: 2% 1%;
+}
+.fa.fa-regular.fa-bookmark {
+    font-size: 2rem;
+    padding: 2% 1%;
+    position: relative;
+    left: 17.8rem;
+}
+p {
+    padding-left: 9px;
+}
+
